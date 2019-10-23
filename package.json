@@ -1,5 +1,5 @@
 {
-  "name": "client-quickstart-node",
+  "name": "HVCCTwilio-connector",
   "private": true,
   "version": "1.0.0",
   "description": "Quick Start application template for Twilio Client on Node.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/TwilioDevEd/client-quickstart-node"
+    "url": "github.com/dnayyar/HVCCTwilio-connector"
   },
   "keywords": [
     "twilio",
